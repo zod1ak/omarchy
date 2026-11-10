@@ -1,0 +1,154 @@
+{
+  "bar": {
+    "background": "opaque",
+    "layout": {
+      "center": [
+        {
+          "format": "dddd HH:mm",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "id": "omarchy.clock",
+          "verticalFormat": "HH\n—\nmm"
+        }
+      ],
+      "centerBegin": [
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "id": "omarchy.active-window"
+        }
+      ],
+      "centerEnd": [
+        {
+          "cities": [
+            {
+              "name": "Yekaterinburg",
+              "zone": "Asia/Yekaterinburg"
+            },
+            {
+              "name": "London",
+              "zone": "Europe/London"
+            },
+            {
+              "name": "Los Angeles",
+              "zone": "America/Los_Angeles"
+            },
+            {
+              "name": "New York",
+              "zone": "America/New_York"
+            },
+            {
+              "name": "Tokyo",
+              "zone": "Asia/Tokyo"
+            }
+          ],
+          "id": "omarchy.elsewhen"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "omarchy.microphone"
+        },
+        {
+          "id": "omarchy.system-update"
+        }
+      ],
+      "left": [
+        {
+          "id": "omarchy.menu"
+        },
+        {
+          "id": "tornikegomareli.spaces"
+        },
+        {
+          "id": "io.github.spoilheap.openrouter"
+        },
+        {
+          "id": "io.github.koyphish.audio-visualizer",
+          "style": "blocks"
+        },
+        {
+          "id": "omarchy.media"
+        }
+      ],
+      "right": [
+        {
+          "id": "omarchy.tray"
+        },
+        {
+          "id": "io.github.ayan-de.android-mirror"
+        },
+        {
+          "id": "gladimdim.config-sync"
+        },
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "id": "im0001gt.hw-tooltip"
+        },
+        {
+          "id": "drives"
+        },
+        {
+          "id": "io.github.wouldja.mouse"
+        },
+        {
+          "id": "omaplug"
+        },
+        {
+          "id": "nosignal.plugin-manager"
+        },
+        {
+          "id": "nosignal.monitor-settings"
+        },
+        {
+          "id": "omarchy.agents"
+        },
+        {
+          "id": "omarchy.bluetooth"
+        },
+        {
+          "id": "omarchy.network"
+        },
+        {
+          "id": "omarchy.audio"
+        },
+        {
+          "id": "omarchy.power"
+        }
+      ],
+      "tray": []
+    },
+    "position": "top"
+  },
+  "disabledPlugins": [
+    "omarchy.battery"
+  ],
+  "dock": {
+    "pinned": [
+      "foot",
+      "omacalc",
+      "omawrite",
+      "YouTube"
+    ],
+    "position": "bottom"
+  },
+  "idle": {
+    "lock": 300,
+    "screensaver": 150
+  },
+  "plugins": [
+    {
+      "id": "nosignal.monitor-settings"
+    },
+    {
+      "id": "nosignal.plugin-manager"
+    },
+    {
+      "id": "sanjyay.cursor-theme-manager"
+    }
+  ],
+  "version": 1
+}

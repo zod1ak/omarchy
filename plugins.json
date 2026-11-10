@@ -1,0 +1,83 @@
+{
+  "format": "omarchy-config-plugins",
+  "version": 1,
+  "plugins": [
+    {
+      "id": "drives",
+      "name": "Drives",
+      "version": "2.0.0",
+      "commit": "8ebb473d0c7dfd1e716eef15e9fbb1be721c15d4",
+      "source": "https://github.com/arsinghin/drives.git"
+    },
+    {
+      "id": "im0001gt.hw-tooltip",
+      "name": "Hardware Tooltip",
+      "version": "1.7.0",
+      "commit": "d6fd7e05589bacc40940a71b08eba97b976fcc89",
+      "source": "https://github.com/IM0001GT/omarchy-hw-tooltip.git"
+    },
+    {
+      "id": "io.github.ayan-de.android-mirror",
+      "name": "Android Mirror",
+      "version": "0.1.0",
+      "commit": "63306320d1297437117e9a593162b14ba8488ae7",
+      "source": "https://github.com/ayandexyz/omarchy-android-mirror.git"
+    },
+    {
+      "id": "io.github.koyphish.audio-visualizer",
+      "name": "Audio Visualizer",
+      "version": "1.0.0",
+      "commit": "bbec27f02d774ec0de35d5f08a43d8cab5104e6a",
+      "source": "https://github.com/koyPhish/omarchy-audio-visualizer.git"
+    },
+    {
+      "id": "io.github.spoilheap.openrouter",
+      "name": "OpenRouter",
+      "version": "1.0.0",
+      "commit": "b443c4268c1946beefca480a6f9fc141620c5dcf",
+      "source": "https://github.com/SpoilHeap/Omarchy.OpenRouter.git"
+    },
+    {
+      "id": "io.github.wouldja.mouse",
+      "name": "Mouse",
+      "version": "1.2.0",
+      "commit": "989cd4ed847e08e77f46eee4cd13d34788c710d0",
+      "source": "https://github.com/wouldja/omarchy-mouse.git"
+    },
+    {
+      "id": "nosignal.monitor-settings",
+      "name": "Monitor Settings",
+      "version": "0.3.1",
+      "commit": "5085b5558c5bd4ad3bdf2eac56c3a9d0a0e71652",
+      "source": "https://github.com/28allday/Monitor-TUI-Omarchy.git"
+    },
+    {
+      "id": "nosignal.plugin-manager",
+      "name": "Plugin Manager",
+      "version": "0.2.1",
+      "commit": "b12fd5b63021bfeb4bc45ef4c219d9c8dd74f039",
+      "source": "https://github.com/28allday/omarchy-plugin-manager.git"
+    },
+    {
+      "id": "omaplug",
+      "name": "Plugin Manager",
+      "version": "1.7.0",
+      "commit": "ebfec41a28b50bc1ddf352d72d5e1718dfd331cc",
+      "source": "https://github.com/fross100/omaplug.git"
+    },
+    {
+      "id": "sanjyay.cursor-theme-manager",
+      "name": "Cursor Theme Manager",
+      "version": "1.0.0",
+      "commit": "16efdae654df5d6a84083bd2f35989d4808f3fb8",
+      "source": "https://github.com/sanjyay/cursor-theme-manager.git"
+    },
+    {
+      "id": "tornikegomareli.spaces",
+      "name": "Spaces",
+      "version": "1.6.0",
+      "commit": "458852c88336722f61d8c67487bc03d4d3523893",
+      "source": "https://github.com/tornikegomareli/omarchy-spaces.git"
+    }
+  ]
+}
