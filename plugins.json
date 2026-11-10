@@ -3,6 +3,13 @@
   "version": 1,
   "plugins": [
     {
+      "id": "crueber.opencode-usage",
+      "name": "OpenCode Go Usage",
+      "version": "1.0.0",
+      "commit": "7d4e113cc292265c5ac315aa9c39faa9eafe3af5",
+      "source": "https://github.com/crueber/omarchy-plugin-opencode-usage.git"
+    },
+    {
       "id": "drives",
       "name": "Drives",
       "version": "2.0.0",

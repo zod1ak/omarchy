@@ -8,6 +8,9 @@
           "formatAlt": "d MMMM 'W'ww yyyy",
           "id": "omarchy.clock",
           "verticalFormat": "HH\n—\nmm"
+        },
+        {
+          "id": "crueber.opencode-usage"
         }
       ],
       "centerBegin": [
