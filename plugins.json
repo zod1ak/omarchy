@@ -52,6 +52,13 @@
       "source": "https://github.com/wouldja/omarchy-mouse.git"
     },
     {
+      "id": "juangalt.fast-plugin-tui-omarchy",
+      "name": "Fast Plugin TUI for Omarchy",
+      "version": "0.1.1",
+      "commit": "63fed367498b30f2ca99ec13e37f428150b362c1",
+      "source": "https://github.com/juangalt/fast-plugin-tui-omarchy.git"
+    },
+    {
       "id": "nosignal.monitor-settings",
       "name": "Monitor Settings",
       "version": "0.3.1",
@@ -68,9 +75,9 @@
     {
       "id": "omaplug",
       "name": "Plugin Manager",
-      "version": "1.7.0",
-      "commit": "ebfec41a28b50bc1ddf352d72d5e1718dfd331cc",
-      "source": "https://github.com/fross100/omaplug.git"
+      "version": "1.7.2",
+      "commit": "5fb645e522de5c79f7ac58d6506c6d31973ca1d0",
+      "source": "https://github.com/fross100/omaplug"
     },
     {
       "id": "sanjyay.cursor-theme-manager",

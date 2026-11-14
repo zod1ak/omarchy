@@ -1,4 +1,8 @@
 {
+  // omaplug-menu-start
+  "apps.omaplug": {"icon": "󱓖", "label": "Omaplug", "description": "Manage Omarchy plugins with Omaplug", "aliases": ["omaplug", "plugins"], "action": "omarchy-shell shell toggle omaplug"},
+  // omaplug-menu-end
+
   // Extend the Quickshell Omarchy menu with JSONC.
   //
   // IDs are object keys. The parent is inferred from the dotted id, so
